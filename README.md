@@ -1,4 +1,4 @@
-# VitaTrack – Intelligent Healthcare Management System
+# VitaTrack – Healthcare Management System
 
 VitaTrack is a modern, secure, AI‑powered healthcare management platform designed to connect patients, doctors, and healthcare providers in one unified system. It simplifies medical data management, appointment booking, digital prescriptions, health tracking, and predictive analytics.
 
