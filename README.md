@@ -13,7 +13,7 @@ VitaTrack is a modern, secure, AI‑powered healthcare management platform desig
 
 ---
 
-##  Core Functionalities
+# Core Functionalities
 
 ### 1.  Authentication & Security
 - JWT Authentication (Access + Refresh Tokens)  
