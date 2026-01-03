@@ -61,11 +61,6 @@ VitaTrack is a modern, secure, AI‑powered healthcare management platform desig
 - **JWT Authentication**
 - **Redis (optional for caching)**
 
-### DevOps
-- **Docker & Docker Compose**
-- **CI/CD: GitHub Actions**
-- **Deployment: Render / AWS / DigitalOcean**
-
 ---
 
 
