@@ -64,4 +64,7 @@ VitaTrack is a modern, secure, AI‑powered healthcare management platform desig
 ---
 
 
+## Useful References
+
+-  [Architecture Artifact on Claude](https://claude.ai/public/artifacts/04385b82-606c-4545-bc53-129abbb0c893)
 
